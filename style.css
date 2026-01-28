@@ -1,0 +1,97 @@
+@charset "utf-8";
+/* CSS Document */
+nav ul {
+    list-style: none;
+    display: flex;          
+    justify-content: center; 
+    padding: 0;
+    margin: 0;
+}
+
+nav ul li {
+    margin: 0 20px;          
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: green;
+    font-weight: bold;
+}
+nav {
+    background-color: rgba(4,7,49,0.7);
+}
+
+
+
+
+.naslov{
+font-family "MagdalenaSoldo", sans serif;
+font size: 43px;
+margin: 0px;
+color: darkslategrey;
+	}
+body {
+    font-family: Arial, sans-serif; 
+    background-color: #f2f2f2; 
+    color: #333; 
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    font-family: 'MojFont', sans-serif; 
+    font-size: 48px;
+    color: #006400;
+    text-align: center;
+    margin-top: 40px;
+}
+
+h2 {
+    font-size: 32px;
+    text-align: center;
+    color: #228B22;
+    margin-bottom: 20px;
+}
+nav {
+    background-color: #e0e0e0;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    margin: 0 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: green;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+nav ul li a:hover {
+    color: darkgreen;
+}
+img, video {
+    display: block;
+    max-width: 80%; 
+    height: auto;
+    margin: 20px auto;
+    border-radius: 8px; 
+}
+p {
+    max-width: 800px;
+    margin: 20px auto;
+    font-size: 18px;
+    text-align: center;
+}
+
+
+
