@@ -25,9 +25,9 @@ nav {
 
 
 .naslov{
-font-family "MagdalenaSoldo", sans-serif;
+font-family: "MagdalenaSoldo", sans-serif;
 font-size: 43px;
-margin: 0px;
+margin: 0;
 color: darkslategrey;
 	}
 body {
@@ -92,6 +92,7 @@ p {
     font-size: 18px;
     text-align: center;
 }
+
 
 
 
